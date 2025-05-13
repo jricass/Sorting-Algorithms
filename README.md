@@ -13,7 +13,7 @@
 │    ├── App.java
 │    ├── HeapSort.java
 │    ├── MergeSort.java
-│    ├── QuickSort.javsa
+│    ├── QuickSort.java
 │    ├── ShellSort.java
 ├── .gitignore
 └── README.md
